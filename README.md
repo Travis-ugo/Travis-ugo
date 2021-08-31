@@ -76,14 +76,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (dribbble icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/
+[2]: https://github.com/Travis-ugo
+[3]: https://www.linkedin.com/in/travis-okonicha-66a15b1b8/
 
