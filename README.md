@@ -31,7 +31,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=42A5F5)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=FF0034)
 ![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat&logo=flutter&logoColor=lightblue&color=64B5F6)
-![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&logoColor=Yellow&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
@@ -43,9 +43,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Travis-ugo_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Travis-ugo GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<!-- <a href="https://github.com/MartinHeinz/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Travis-ugo&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 
 
 <a href="https://github.com/Travis-ugo/e-commerce">
