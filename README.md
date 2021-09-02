@@ -28,7 +28,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Editor-X_code-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Andiod_Studio-informational?style=flat&logo=andriodstudios&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=42A5F5)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=Skyblue&color=87CEEB)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=FF0034)
 ![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat&logo=flutter&logoColor=Blue&color=0000FF)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&logoColor=Yellow&color=FFFF00)
