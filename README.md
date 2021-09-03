@@ -36,6 +36,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Tools-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
 ## &#x1f4c8; GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Travis-ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Travis-ugo&show_icons=true&theme=dark)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
