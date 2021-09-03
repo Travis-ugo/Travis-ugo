@@ -38,7 +38,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## &#x1f4c8; GitHub Stats
 ![Travis-ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Travis-ugo&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Travis-ugo&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Travis-ugo&repo=github-readme-stats)](https://github.com/Travis-ugo/e-commerce)
 
 
 
