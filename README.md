@@ -38,16 +38,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## &#x1f4c8; GitHub Stats
 ![Travis-ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Travis-ugo&show_icons=true&theme=dark)
 
-<a href="https://github.com/Travis-ugo/Travis-ugo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Travis-ugo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/Travis-ugo/Travis-ugo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Travis-ugo_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Travis-ugo GitHub Stats" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Travis-ugo&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Travis-ugo&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
 
 
 <a href="https://github.com/Travis-ugo/e-commerce">
