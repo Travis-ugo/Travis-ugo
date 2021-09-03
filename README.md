@@ -24,7 +24,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=Grey&color=808080)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=Light-blue&color=add8e6)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=Amber&color=add8e6)
 ![](https://img.shields.io/badge/Editor-X_code-informational?style=flat&logo=xcode&logoColor=Navyblue&color=000080)
 ![](https://img.shields.io/badge/Editor-Andiod_Studio-informational?style=flat&logo=andriodstudios&logoColor=Green&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=Green&color=2bbc8a)
