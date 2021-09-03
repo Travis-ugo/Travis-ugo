@@ -33,7 +33,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=Orange&color=E5682D)
 ![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat&logo=flutter&logoColor=Cyan&color=00FFFF)
 ![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat&logo=flutter&logoColor=Cyan&color=00FFFF)
-![](https://img.shields.io/badge/Tools-firebase-informational?style=flat&logo=firebase&logoColor=black&color=ffca28)
+![](https://img.shields.io/badge/Tools-firebase-informational?style=flat&logo=firebase&logoColor=Yellow&color=ffca28)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
