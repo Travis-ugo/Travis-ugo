@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- I'm Travis Okonicha and i'm a Mobile Application Developerand a User Interface designer.
+- I'm Travis Okonicha and i'm a Mobile Application Developer and a User Interface designer.
 - i design and build mobile and desktop user friendy applications with love.
 
 <!-- 
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=Grey&color=808080)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-X_code-informational?style=flat&logo=xcode&logoColor=Navyblue&color=000080)
 ![](https://img.shields.io/badge/Editor-Andiod_Studio-informational?style=flat&logo=andriodstudios&logoColor=Green&color=2bbc8a)
