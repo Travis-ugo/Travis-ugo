@@ -25,13 +25,15 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=Grey&color=808080)
 ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![](https://img.shields.io/badge/IDDE-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=Yellow&color=ffca28)
+
+![](https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
 ![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=Green&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=Aqua&color=87ceeb)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=Orange&color=E5682D)
-![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat&logo=flutter&logoColor=Cyan&color=00FFFF)
 ![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat&logo=flutter&logoColor=Cyan&color=00FFFF)
 ![](https://img.shields.io/badge/Tools-firebase-informational?style=flat&logo=firebase&logoColor=Yellow&color=ffca28)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
