@@ -32,7 +32,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=Aqua&color=87ceeb)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=Orange&color=E5682D)
 ![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat&logo=flutter&logoColor=Cyan&color=00FFFF)
-![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat&logo=flutter&logoColor=Cyan&color=00FFFF)
+![](https://img.shields.io/badge/firebase-ffca28-informational?style=flat&logo=firebase&logoColor=black)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
