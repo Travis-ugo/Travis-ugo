@@ -36,7 +36,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Tools-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
 ## &#x1f4c8; GitHub Stats
-![Travis-ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Travis-ugo&show_icons=true&theme=radical)
+![Travis-ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Travis-ugo&show_icons=true&theme=graywhite)
 
 <a href="https://github.com/Travis-ugo/Travis-ugo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Travis-ugo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
