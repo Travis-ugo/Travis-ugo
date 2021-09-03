@@ -26,9 +26,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=Grey&color=808080)
 ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=cyan&color=0078D4)
+![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=cyan&color=0078D4)
 
-![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
 ![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=Green&color=2bbc8a)
