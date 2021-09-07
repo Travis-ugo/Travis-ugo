@@ -1,13 +1,3 @@
-<!-- - 👋 Hi, I’m @Travis-ugo
-- 👀 I’m interested in everthing beautiful, Flutter, IOS Mobile dev, UI design, Football, Golf...
-- 🌱 I’m currently learning Cards🌱🌱...
-- 💞️ I’m looking to collaborate...
-- 📫 How to reach me on Gmail : Okonicha.ugo@gmail.com , portfolio webapp : Trvis-ugo.web.app...
-
-<!---
-Travis-ugo/Travis-ugo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 <!-- 
@@ -17,10 +7,7 @@ You can click the Preview link to take a look at your changes.
 - I'm Travis Okonicha and i'm a Mobile Application Developer and a User Interface designer.
 - i design and build mobile and desktop user friendy applications with love.
 
-<!-- 
-## &#x270d; Blog & Writing -->
-<!-- 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
+<!-- (https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=Grey&color=808080)
