@@ -1,13 +1,9 @@
-
-
-<!-- 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://trvis-ugo.web.app/) -->
 #
 ###  Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Travis Okonicha
 <!-- - I'm Travis Okonicha and i'm a Mobile Application Developer and a User Interface designer.
 - i design and build mobile and desktop user friendy applications with love -->
 
-## 🔧 Technologies
+### 🔧 Technologies
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=Grey&color=808080)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=Green&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=aqua&color=87ceeb)
@@ -21,16 +17,6 @@
 ![Travis-ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Travis-ugo&show_icons=true&theme=dark)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Travis-ugo&hide=python,Ruby,PowerShell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
-
-
-
-
-
-<!-- links to social media icons          -->
-
-<!-- icons with padding -->
-
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
@@ -39,7 +25,6 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png (dribbble icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
 
 <!-- links to your social media accounts -->
 
