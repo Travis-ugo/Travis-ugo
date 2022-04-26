@@ -3,6 +3,10 @@
 <!-- - I'm Travis Okonicha and i'm a Mobile Application Developer and a User Interface designer.
 - i design and build mobile and desktop user friendy applications with love -->
 
+## &#x1f4c8; GitHub Stats
+
+![Travis-ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Travis-ugo&show_icons=true&theme=dark)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Travis-ugo&hide=python,Ruby,PowerShell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 ### 🔧 Technologies
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=Grey&color=808080)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=Green&color=2bbc8a)
@@ -12,10 +16,6 @@
 ![](https://img.shields.io/badge/Tools-firebase-informational?style=flat&logo=firebase&logoColor=Yellow&color=ffca28)
 ![](https://img.shields.io/badge/Tools-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
-## &#x1f4c8; GitHub Stats
-
-![Travis-ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Travis-ugo&show_icons=true&theme=dark)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Travis-ugo&hide=python,Ruby,PowerShell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
