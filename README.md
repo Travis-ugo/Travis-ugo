@@ -3,7 +3,7 @@
 <p>HMM🤔🤔 let’s talk about data structure⚡️, algorithm✅, flutter💠, and ~french whine~ 🍷😎.<p/>
 
 
-<!-- ![Travis-ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Travis-ugo&show_icons=true&theme=dark) -->
+![Travis-ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Travis-ugo&show_icons=true&theme=dark)
 
 ### 🔧 Technologies
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=Grey&color=808080)
