@@ -10,7 +10,7 @@
 <!-- (https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
 
 ## 🔧 Technologies
-![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=apple&logoColor=Grey&color=808080)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=Grey&color=808080)
 <!-- ![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=intellij-idea&logoColor=cyan&color=000000) -->
 <!-- ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=cyan&color=0078D4) -->
 <!-- ![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=Xcode&logoColor=cyan&color=0078D4) -->
