@@ -1,10 +1,10 @@
 #
 ###  Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Travis Okonicha
-<!-- - I'm Travis Okonicha and i'm a Mobile Application Developer and a User Interface designer.
-- i design and build mobile and desktop user friendy applications with love -->
+HMM🤔🤔 let’s talk about data structure⚡️, algorithm✅, flutter💠, and french whine 🍷😎.
 
-![Travis-ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Travis-ugo&show_icons=true&theme=dark)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Travis-ugo&hide=python,Ruby,PowerShell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- ![Travis-ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Travis-ugo&show_icons=true&theme=dark) -->
+
 ### 🔧 Technologies
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=Grey&color=808080)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=Green&color=2bbc8a)
