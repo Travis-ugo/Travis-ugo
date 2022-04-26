@@ -2,12 +2,10 @@
 
 <!-- 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://trvis-ugo.web.app/) -->
-
+#.
 ### Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 - I'm Travis Okonicha and i'm a Mobile Application Developer and a User Interface designer.
-- i design and build mobile and desktop user friendy applications with love.
-
-<!-- (https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
+- i design and build mobile and desktop user friendy applications with love
 
 ## 🔧 Technologies
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=Grey&color=808080)
