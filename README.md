@@ -1,5 +1,5 @@
 #
-###  Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Travis Okonicha
+###  Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="200px"> I'm Travis Okonicha
 <p>HMM🤔🤔 let’s talk about data structure⚡️, algorithm✅, flutter💠, and french whine 🍷😎.<p/>
 
 
